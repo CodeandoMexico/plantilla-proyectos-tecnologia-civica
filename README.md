@@ -28,79 +28,42 @@ Este proyecto es una plantilla para crear proyectos en Codeando México. Puedes 
 
 ### Cómo descargar
 
-0. ** {{ Paso 1 }} >**
+0. **Escribe aquí el primer paso.**
 
-    {{ Descripción del paso 1 }}
+   Descripción breve del primer paso.
 
-    ```
-    $ commando
-    ```
+   ```otro comando
+   $ más comandos
+   ```
 
-    {{< ¿Qué sucede con este paso? }}.
+   ¿Qué sucede con este paso?
+   
+   > _Nota:_ Información adicional de este paso.
 
-    > _Nota:_ {{ Información adicional }} .
+1. **Segunda instrucción.**
 
-0. ** {{ Paso 2 }} **
+   Descripción breve del primer segundo.
 
-    {{ Descripción del paso 2 }}
-    
-    ```
-    otro comando
-    comando adicional
-    ```
-    {{< ¿Qué sucede con este paso? }}.
+   ```comando 1
+   $ comando 2
+   ```
+
+   ¿Qué sucede con este paso?
+
 
 ### Cómo instalar
 
-0. ** {{ Paso 1 }} >**
-
-    {{ Descripción del paso 1 }}
-
-    ```
-    $ commando
-    ```
-
-    {{< ¿Qué sucede con este paso? }}.
-
-    > _Nota:_ {{ Información adicional }} .
-
-0. ** {{ Paso 2 }} **
-
-    {{ Descripción del paso 2 }}
-    
-    ```
-    otro comando
-    comando adicional
-    ```
-    {{< ¿Qué sucede con este paso? }}.
+Utiliza la guía de Cómo descargar. 
 
 ### Cómo ejecutar
 
-0. ** {{ Paso 1 }} >**
+Utiliza la guía de Cómo descargar. 
 
-    {{ Descripción del paso 1 }}
-
-    ```
-    $ commando
-    ```
-
-    {{< ¿Qué sucede con este paso? }}.
-
-    > _Nota:_ {{ Información adicional }} .
-
-0. ** {{ Paso 2 }} **
-
-    {{ Descripción del paso 2 }}
-    
-    ```
-    otro comando
-    comando adicional
-    ```
-    {{< ¿Qué sucede con este paso? }}.
 
 ## Contribuye
 
-{{ Instrucciones de cómo contribuir. }}
+Incluye aquí las formas de contribuir a tu proyecto.
+
 
 ## Créditos
 
