@@ -28,24 +28,27 @@ Este proyecto es una plantilla para crear proyectos en Codeando México. Puedes 
 
 1. **Escribe aquí el primer paso.**
 
-   Descripción breve del primer paso.
+    Descripción breve del primer segundo.
 
-   `comando`
+   ```
+   comando
+   $ otro comando
+   ```
 
-   ¿Qué sucede con este paso?
+    ¿Qué sucede con este paso?
    
-   > _Nota:_ Información adicional de este paso.
+> **Nota**: Información adicional de este paso.
 
 2. **Segunda instrucción.**
 
-   Descripción breve del primer segundo.
+    Descripción breve del primer segundo.
 
-   ```
-   comando
+   ```
+   comando
    $ otro comando
-   ```
+   ```
 
-   ¿Qué sucede con este paso?
+    ¿Qué sucede con este paso?
 
 
 ### Instalación
