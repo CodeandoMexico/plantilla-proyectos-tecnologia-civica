@@ -120,7 +120,7 @@ A su vez, es buena práctica documentar las tareas o issues que se estén trabaj
 - Esta carpeta es OBLIGATORIA
 ```
 
-La documentación del proyecto debe vivir en el mismo repositorio que el código que documenta. Cualquier documento, ya sean ficheros markdown, word, pdf o txt, deben estar bajo la carpeta documentos.
+La documentación del proyecto debe vivir en el mismo repositorio que el código que documenta. Cualquier documento, ya sean ficheros markdown, word, pdf o txt, deben estar bajo la carpeta `documentos`.
 
 Es buena idea poner en esta carpeta:
 
