@@ -37,8 +37,8 @@ La recomendación es que el nombre del repositorio del proyecto esté en españo
 ## [Fichero] Read Me
 
 ```
-- Este fichero es OBLIGATORIO
-- Este fichero debe llamarse README.md o LEEME.md y residir en la carpeta raíz del proyecto
+‼️ Este fichero es OBLIGATORIO
+ℹ️ Este fichero debe llamarse README.md o LEEME.md y residir en la carpeta raíz del proyecto
 ```
 
 El fichero Read Me contiene la información básica del proyecto:
@@ -46,8 +46,9 @@ El fichero Read Me contiene la información básica del proyecto:
   * En qué consiste
   * Por qué es útil
   * Cómo se puede usar
-  * Dónde se puede obteber ayuda
-  * Quien mantiene y contribuye al proyecto
+  * Dónde se puede obtener ayuda
+  * [Referencias](#sección-referencias)
+  * [Créditos](#sección-créditos): Quien mantiene y contribuye al proyecto
 
 
 El ficherto que estás leyendo ahora mismo es el Read Me de este repositorio, y lo puedes tomar como referencia, para el uso de los logos y ver ejemplos de secciones que se suelen incluir en este tipo de  fichero.
@@ -55,8 +56,8 @@ El ficherto que estás leyendo ahora mismo es el Read Me de este repositorio, y 
 ## [Fichero] Código de conducta
 
 ```
-- Este fichero es OBLIOGATORIO
-- Este fichero debe llamarse CODE_OF_CONDUCT.md o CODIGO_DE_CONDUCTA.md y residir en la carpeta raíz del proyecto
+‼️ Este fichero es OBLIOGATORIO
+ℹ️ Este fichero debe llamarse CODE_OF_CONDUCT.md o CODIGO_DE_CONDUCTA.md y residir en la carpeta raíz del proyecto
 ```
 
 El código de conducta regula cómo se deben comportar las personas que participan en los proyectos de Codeando México.
@@ -66,8 +67,8 @@ La última versión del código se encuentra en el [repositorio de Comunidad](ht
 ## [Fichero] Licencia de uso
 
 ```
-- Este fichero es OBLIOGATORIO
-- Este fichero debe llamarse LICENSE o LICENCIA y residir en la carpeta raíz del proyecto
+‼️ Este fichero es OBLIOGATORIO
+ℹ️ Este fichero debe llamarse LICENSE o LICENCIA y residir en la carpeta raíz del proyecto
 ```
 
 A diferencia del software propietario, como por ejemplo Microsoft Word, todos los proyectos de la comunidad y de la organización Codeando México son proyectos de [software libre](https://www.gnu.org/philosophy/free-sw.es.html).
@@ -89,8 +90,8 @@ Codeando México no tiene una recomendación sobre qué licencia usar en especí
 ## [Fichero] Cómo contribuir al proyecto
 
 ```
-- Este fichero es OPCIONAL
-- Este fichero debe llamarse CONTRIBUTING.md o CONTRIBUYE.md y residir en la carpeta raíz del proyecto
+❗️ Este fichero es OPCIONAL
+ℹ️ Este fichero debe llamarse CONTRIBUTING.md o CONTRIBUYE.md y residir en la carpeta raíz del proyecto
 ```
 
 En la medida de los posible, en Codeando México intentamos trabajar en abierto, tanto en nuestras comunicaciones de proyecto, como los avances de los mismos, aunque eso no significa que un proyecto esté abierto siempre a colaboraciones.
@@ -106,8 +107,8 @@ Algunos ejemplos de referencia:
 ## [Fichero] Hacklog
 
 ```
-- Este fichero es OPCIONAL
-- Este fichero debe llamarse HACKLOG.md o BITACORA.md y residir en la carpeta raíz del proyecto
+❗️ Este fichero es OPCIONAL
+ℹ️ Este fichero debe llamarse HACKLOG.md o BITACORA.md y residir en la carpeta raíz del proyecto
 ```
 
 Como parte de nuestro objetivo de trabajar en abierto, es buena práctica ir documentando algunos de los milestones en el fichero hacklog.
@@ -117,7 +118,8 @@ A su vez, es buena práctica documentar las tareas o issues que se estén trabaj
 ## [Carpeta] Documentación
 
 ```
-- Esta carpeta es OBLIGATORIA
+‼️ Esta carpeta es OBLIGATORIA
+ℹ️ Esta carpeta debe llamarse `documentos`
 ```
 
 La documentación del proyecto debe vivir en el mismo repositorio que el código que documenta. Cualquier documento, ya sean ficheros markdown, word, pdf o txt, deben estar bajo la carpeta `documentos`.
@@ -133,7 +135,8 @@ Es buena idea poner en esta carpeta:
 ## [Carpeta] Recursos
 
 ```
-- Esta carpeta es OBLIGATORIA
+‼️ Esta carpeta es OBLIGATORIA
+ℹ️ Esta carpeta debe llamarse `recursos`
 ```
 
 Todos los recursos gráficos (logos, banners, etc) o fotografías deben de ir en la carpeta de recursos.
@@ -142,7 +145,7 @@ Todos los recursos gráficos (logos, banners, etc) o fotografías deben de ir en
 ## [Sección] Referencias
 
 ```
-- Esta sección es OPCIONAL
+❗️ Esta sección es OPCIONAL
 ```
 
 En nuestros proyectos solemos aplicar metodologías de trabajo desarrolladas por otras organizaciones o gobiernos, y en esta sección incluimos los enlaces a los documentos de referencia. 
@@ -150,7 +153,7 @@ En nuestros proyectos solemos aplicar metodologías de trabajo desarrolladas por
 ## [Sección] Créditos
 
 ```
-- Esta sección es OBLIGATORIA
+‼️ Esta sección es OBLIGATORIA
 ```
 
 Uno de los pilares de nuestro trabajo es la colaboración multidisciplinar. En Codeando México colaboramos con gobiernos de todos los niveles (federal, estatal, municipal), organizaciones internacionales y de la sociedad civil y con un gran número de colaboradores individales.
