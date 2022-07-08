@@ -18,14 +18,14 @@ Este repositorio es una plantilla con la **estructura mínima** que debería ten
   - [Índice](#índice)
   - [Nombre del proyecto](#nombre-del-proyecto)
   - [[Archivo] Read Me](#archivo-read-me)
+  - [[Sección] Referencias](#sección-referencias)
+  - [[Sección] Créditos](#sección-créditos)
   - [[Archivo] Código de conducta](#archivo-código-de-conducta)
   - [[Archivo] Licencia de uso](#archivo-licencia-de-uso)
   - [[Archivo] Cómo contribuir al proyecto](#archivo-cómo-contribuir-al-proyecto)
   - [[Archivo] Hacklog](#archivo-hacklog)
   - [[Carpeta] Documentación](#carpeta-documentación)
   - [[Carpeta] Recursos](#carpeta-recursos)
-  - [[Sección] Referencias](#sección-referencias)
-  - [[Sección] Créditos](#sección-créditos)
 
 ## Nombre del proyecto
 
@@ -52,6 +52,26 @@ El archivo Read Me contiene la información básica del proyecto:
 
 
 El ficherto que estás leyendo ahora mismo es el Read Me de este repositorio, y lo puedes tomar como referencia, para el uso de los logos y ver ejemplos de secciones que se suelen incluir en este tipo de  archivo.
+
+## [Sección] Referencias
+
+```
+❗️ Esta sección es OPCIONAL
+```
+
+En nuestros proyectos solemos aplicar metodologías de trabajo desarrolladas por otras organizaciones o gobiernos, y en esta sección incluimos los enlaces a los documentos de referencia. 
+
+## [Sección] Créditos
+
+```
+‼️ Esta sección es OBLIGATORIA
+```
+
+Uno de los pilares de nuestro trabajo es la colaboración multidisciplinar. En Codeando México colaboramos con gobiernos de todos los niveles (federal, estatal, municipal), organizaciones internacionales y de la sociedad civil y con un gran número de colaboradores individales.
+
+En esta sección intentamos dar el crédito a todos los colaboradores, ya que sin ellos no sería posible nuestro trabajo.
+
+Antes de incluir el nombre y contacto de un colaborador, es necesario contar con su visto bueno.
 
 ## [Archivo] Código de conducta
 
@@ -140,27 +160,6 @@ Es buena idea poner en esta carpeta:
 ```
 
 Todos los recursos gráficos (logos, banners, etc) o fotografías deben de ir en la carpeta de recursos.
-
-
-## [Sección] Referencias
-
-```
-❗️ Esta sección es OPCIONAL
-```
-
-En nuestros proyectos solemos aplicar metodologías de trabajo desarrolladas por otras organizaciones o gobiernos, y en esta sección incluimos los enlaces a los documentos de referencia. 
-
-## [Sección] Créditos
-
-```
-‼️ Esta sección es OBLIGATORIA
-```
-
-Uno de los pilares de nuestro trabajo es la colaboración multidisciplinar. En Codeando México colaboramos con gobiernos de todos los niveles (federal, estatal, municipal), organizaciones internacionales y de la sociedad civil y con un gran número de colaboradores individales.
-
-En esta sección intentamos dar el crédito a todos los colaboradores, ya que sin ellos no sería posible nuestro trabajo.
-
-Antes de incluir el nombre y contacto de un colaborador, es necesario contar con su visto bueno.
 
 --
 
