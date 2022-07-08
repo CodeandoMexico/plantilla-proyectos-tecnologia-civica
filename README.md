@@ -17,11 +17,11 @@ Este repositorio es una plantilla con la **estructura mínima** que debería ten
 - [Guía y plantilla para proyectos de Codeando México](#guía-y-plantilla-para-proyectos-de-codeando-méxico)
   - [Índice](#índice)
   - [Nombre del proyecto](#nombre-del-proyecto)
-  - [[Fichero] Read Me](#fichero-read-me)
-  - [[Fichero] Código de conducta](#fichero-código-de-conducta)
-  - [[Fichero] Licencia de uso](#fichero-licencia-de-uso)
-  - [[Fichero] Cómo contribuir al proyecto](#fichero-cómo-contribuir-al-proyecto)
-  - [[Fichero] Hacklog](#fichero-hacklog)
+  - [[Archivo] Read Me](#archivo-read-me)
+  - [[Archivo] Código de conducta](#archivo-código-de-conducta)
+  - [[Archivo] Licencia de uso](#archivo-licencia-de-uso)
+  - [[Archivo] Cómo contribuir al proyecto](#archivo-cómo-contribuir-al-proyecto)
+  - [[Archivo] Hacklog](#archivo-hacklog)
   - [[Carpeta] Documentación](#carpeta-documentación)
   - [[Carpeta] Recursos](#carpeta-recursos)
   - [[Sección] Referencias](#sección-referencias)
@@ -34,14 +34,14 @@ La recomendación es que el nombre del repositorio del proyecto esté en españo
 * ✅  `estandar-datos-legislativos`, `aprende-con-datos`, `guia-participacion-digital`.
 * ❌  `BlockchainForTheWin`, `OTRA_APP_DE_RAILS`
 
-## [Fichero] Read Me
+## [Archivo] Read Me
 
 ```
-‼️ Este fichero es OBLIGATORIO
-ℹ️ Este fichero debe llamarse README.md o LEEME.md y residir en la carpeta raíz del proyecto
+‼️ Este archivo es OBLIGATORIO
+ℹ️ Este archivo debe llamarse README.md o LEEME.md y residir en la carpeta raíz del proyecto
 ```
 
-El fichero Read Me contiene la información básica del proyecto:
+El archivo Read Me contiene la información básica del proyecto:
 
   * En qué consiste
   * Por qué es útil
@@ -51,29 +51,29 @@ El fichero Read Me contiene la información básica del proyecto:
   * [Créditos](#sección-créditos): Quien mantiene y contribuye al proyecto
 
 
-El ficherto que estás leyendo ahora mismo es el Read Me de este repositorio, y lo puedes tomar como referencia, para el uso de los logos y ver ejemplos de secciones que se suelen incluir en este tipo de  fichero.
+El ficherto que estás leyendo ahora mismo es el Read Me de este repositorio, y lo puedes tomar como referencia, para el uso de los logos y ver ejemplos de secciones que se suelen incluir en este tipo de  archivo.
 
-## [Fichero] Código de conducta
+## [Archivo] Código de conducta
 
 ```
-‼️ Este fichero es OBLIOGATORIO
-ℹ️ Este fichero debe llamarse CODE_OF_CONDUCT.md o CODIGO_DE_CONDUCTA.md y residir en la carpeta raíz del proyecto
+‼️ Este archivo es OBLIOGATORIO
+ℹ️ Este archivo debe llamarse CODE_OF_CONDUCT.md o CODIGO_DE_CONDUCTA.md y residir en la carpeta raíz del proyecto
 ```
 
 El código de conducta regula cómo se deben comportar las personas que participan en los proyectos de Codeando México.
 
 La última versión del código se encuentra en el [repositorio de Comunidad](https://github.com/CodeandoMexico/comunidad/blob/master/CONTRIBUYE.md), y es necesario copiarlo de ahí.
 
-## [Fichero] Licencia de uso
+## [Archivo] Licencia de uso
 
 ```
-‼️ Este fichero es OBLIOGATORIO
-ℹ️ Este fichero debe llamarse LICENSE o LICENCIA y residir en la carpeta raíz del proyecto
+‼️ Este archivo es OBLIOGATORIO
+ℹ️ Este archivo debe llamarse LICENSE o LICENCIA y residir en la carpeta raíz del proyecto
 ```
 
 A diferencia del software propietario, como por ejemplo Microsoft Word, todos los proyectos de la comunidad y de la organización Codeando México son proyectos de [software libre](https://www.gnu.org/philosophy/free-sw.es.html).
 
-Uno de los requisitos del software libre es que este sea publicado bajo licencias que permitan su copia, uso, modificación y redistribución sin limitaciones a las libertades de los usuarios, y el cídigo fuente del proyecto debe de tener un fichero que especifique la licencia bajo la cual se está publicando el proyecto.
+Uno de los requisitos del software libre es que este sea publicado bajo licencias que permitan su copia, uso, modificación y redistribución sin limitaciones a las libertades de los usuarios, y el cídigo fuente del proyecto debe de tener un archivo que especifique la licencia bajo la cual se está publicando el proyecto.
 
 En algunos casos, un proyecto puede estar badado en proyectos o librerías de terceros, por lo cual antes de elegir la licencia es necesario revisar las licencias de estos proyectos o librerías para no incurrir en una violación de los derechos establecidos en esas licencias.
 
@@ -87,11 +87,11 @@ Codeando México no tiene una recomendación sobre qué licencia usar en especí
 
 [Esta herramienta](https://choosealicense.com/appendix/) puede ser de utilidad a la hora de seleccionar una licencia para el proyecto.
 
-## [Fichero] Cómo contribuir al proyecto
+## [Archivo] Cómo contribuir al proyecto
 
 ```
-❗️ Este fichero es OPCIONAL
-ℹ️ Este fichero debe llamarse CONTRIBUTING.md o CONTRIBUYE.md y residir en la carpeta raíz del proyecto
+❗️ Este archivo es OPCIONAL
+ℹ️ Este archivo debe llamarse CONTRIBUTING.md o CONTRIBUYE.md y residir en la carpeta raíz del proyecto
 ```
 
 En la medida de los posible, en Codeando México intentamos trabajar en abierto, tanto en nuestras comunicaciones de proyecto, como los avances de los mismos, aunque eso no significa que un proyecto esté abierto siempre a colaboraciones.
@@ -104,14 +104,14 @@ Algunos ejemplos de referencia:
 * [Decidim Monterrey](https://github.com/CodeandoMexico/decidim-monterrey/blob/main/CONTRIBUTING.md)
 
 
-## [Fichero] Hacklog
+## [Archivo] Hacklog
 
 ```
-❗️ Este fichero es OPCIONAL
-ℹ️ Este fichero debe llamarse HACKLOG.md o BITACORA.md y residir en la carpeta raíz del proyecto
+❗️ Este archivo es OPCIONAL
+ℹ️ Este archivo debe llamarse HACKLOG.md o BITACORA.md y residir en la carpeta raíz del proyecto
 ```
 
-Como parte de nuestro objetivo de trabajar en abierto, es buena práctica ir documentando algunos de los milestones en el fichero hacklog.
+Como parte de nuestro objetivo de trabajar en abierto, es buena práctica ir documentando algunos de los milestones en el archivo hacklog.
 
 A su vez, es buena práctica documentar las tareas o issues que se estén trabajando haciendo uso de la herramienta de issues de GitHub.
 
@@ -122,7 +122,7 @@ A su vez, es buena práctica documentar las tareas o issues que se estén trabaj
 ℹ️ Esta carpeta debe llamarse `documentos`
 ```
 
-La documentación del proyecto debe vivir en el mismo repositorio que el código que documenta. Cualquier documento, ya sean ficheros markdown, word, pdf o txt, deben estar bajo la carpeta `documentos`.
+La documentación del proyecto debe vivir en el mismo repositorio que el código que documenta. Cualquier documento, ya sean archivos markdown, word, pdf o txt, deben estar bajo la carpeta `documentos`.
 
 Es buena idea poner en esta carpeta:
 
