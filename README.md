@@ -82,7 +82,7 @@ Antes de incluir el nombre y contacto de un colaborador, es necesario contar con
 
 El código de conducta regula cómo se deben comportar las personas que participan en los proyectos de Codeando México.
 
-La última versión del código se encuentra en el [repositorio de Comunidad](https://github.com/CodeandoMexico/comunidad/blob/master/CONTRIBUYE.md), y es necesario copiarlo de ahí.
+La última versión de nuestro código de conducta se encuentra en el [repositorio de Comunidad](https://github.com/CodeandoMexico/comunidad/blob/master/CODIGO-DE-CONDUCTA.md).
 
 ## [Archivo] Licencia de uso
 
@@ -164,5 +164,3 @@ Todos los recursos gráficos (logos, banners, etc) o fotografías deben de ir en
 --
 
 Creado con ❤️ por la comunidad de [Codeando México](http://www.codeandomexico.org).
-
-
