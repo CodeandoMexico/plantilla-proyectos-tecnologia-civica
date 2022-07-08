@@ -12,11 +12,11 @@ El `hacklog` es un documento corto que sirve como bitácora del proyecto. Lo pue
 
 _Tip_: Si te toma más de tres minutos escribir una entrada en tu hacklog, lo estás haciendo mal.
 
-#### 2017-02-20 - Reunión presencial en Hacker Café
+#### 20XX-XX-XX - Reunión presencial en XXX
 
 * **Asistentes**
-   - rodowi
-   - octocat
+   - aaa
+   - bbb
 * **Logros** 
 * **Próximos objetivos**
 * **Notas**
@@ -24,7 +24,7 @@ _Tip_: Si te toma más de tres minutos escribir una entrada en tu hacklog, lo es
    - Nota 2
    - Nota 3
 
-#### 2017-01-10 - Llamada general por Hangouts
+#### 20XX-XX-XX - Llamada general por Hangouts
 
 * **Asistentes**
 * **Logros**

@@ -1,101 +1,168 @@
-<p align="center">
-<img src="http://codeandomexico.org/resources/img/codeandomexico.png" width="500" alt="Codeando México"><br>
-<a href="http://www.codeandomexico.org/" target="_blank"><img src="https://img.shields.io/badge/website-CodeandoMexico-00D88E.svg"></a>
-<a href="http://slack.codeandomexico.org/" target="_blank"><img src="https://img.shields.io/badge/slack-CodeandoMexico-EC0E4F.svg"></a>
-</p>
+![Logo Codeando México](/recursos/imagenes/logo-cmx.svg#gh-light-mode-only)
+![Logo Codeando México](/recursos/imagenes/logo-cmx-blanco.svg#gh-dark-mode-only)
 
-# Nombre del proyecto
+[![website](https://img.shields.io/badge/website-CodeandoMexico-00D88E.svg)](http://www.codeandomexico.org/)
+[![slack](https://img.shields.io/badge/slack-CodeandoMexico-EC0E4F.svg)](http://slack.codeandomexico.org/)
 
-**tl;dr**: Descripción de tu proyecto en un tweet.
+
+# Guía y plantilla para proyectos de Codeando México
+
+A lo largo de los años, el número de proyectos y la variedad de personas que han colaborado ha ido aumentando, y como resultado la manera en la que están estructurados los proyectos en Codeando México es muy variada también. 
+
+Este repositorio es una plantilla con la **estructura mínima** que debería tener cada proyecto de la comunidad y de la organización Codeando México, y debe servir de guía para los nuevos proyectos que se vayan a integrar al repositorio de la organización.
+
 
 ## Índice
 
-* [Acerca del proyecto](https://github.com/CodeandoMexico/civic-project-template#acerca-del-proyecto)
-* [Comienza](https://github.com/CodeandoMexico/civic-project-template#comienza)
-* [Contribuye](https://github.com/CodeandoMexico/civic-project-template#contribuye)
-* [Referencias](https://github.com/CodeandoMexico/civic-project-template#referencias)
-* [Créditos](https://github.com/CodeandoMexico/civic-project-template#creditos)
-* [Licencia](https://github.com/CodeandoMexico/civic-project-template#licencia)
+- [Guía y plantilla para proyectos de Codeando México](#guía-y-plantilla-para-proyectos-de-codeando-méxico)
+  - [Índice](#índice)
+  - [Nombre del proyecto](#nombre-del-proyecto)
+  - [[Archivo] Read Me](#archivo-read-me)
+    - [[Sección] Referencias](#sección-referencias)
+    - [[Sección] Créditos](#sección-créditos)
+  - [[Archivo] Código de conducta](#archivo-código-de-conducta)
+  - [[Archivo] Licencia de uso](#archivo-licencia-de-uso)
+  - [[Archivo] Cómo contribuir al proyecto](#archivo-cómo-contribuir-al-proyecto)
+  - [[Archivo] Hacklog](#archivo-hacklog)
+  - [[Carpeta] Documentación](#carpeta-documentación)
+  - [[Carpeta] Recursos](#carpeta-recursos)
 
-## Acerca del proyecto
+## Nombre del proyecto
 
-Este proyecto es una plantilla para crear proyectos en Codeando México. Puedes forkearla y modificarla o simplemente tomar lo que necesites. Modifícala a tu gusto. No es necesario referir a este documento en los créditos. El proyecto cuenta ya con:
+La recomendación es que el nombre del repositorio del proyecto esté en español, dado que la principal audiencia de nuestros proyectos es población de la república mexicana y América Latina. Si el nombre del proyecto tiene más de una plabra, estas deben estar en minúsculas y separadas por guiones.
 
-- [x] README.md
-- [x] Etiquetas estándar en la sección de *issues*.
-- [x] Etiquetas en el about del proyecto.
-- [x] Template para HACKLOG.md
-- [x] Archivo LICENCE con licencia MIT.
-- [ ] Plantilla para guía de contribución
-- [ ] Plantilla de *issues*.
-- [ ] Más badges!
+* ✅  `estandar-datos-legislativos`, `aprende-con-datos`, `guia-participacion-digital`.
+* ❌  `BlockchainForTheWin`, `OTRA_APP_DE_RAILS`
 
-## Comienza
+## [Archivo] Read Me
 
-### Descarga
+```
+‼️ Este archivo es OBLIGATORIO
+ℹ️ Este archivo debe llamarse README.md o LEEME.md y residir en la carpeta raíz del proyecto
+```
 
-1. **Escribe aquí el primer paso.**
+El archivo Read Me contiene la información básica del proyecto:
 
-    Descripción breve del primer segundo.
-
-   ```
-   comando
-   $ otro comando
-   ```
-
-    ¿Qué sucede con este paso?
-   
-> **Nota**: Información adicional de este paso.
-
-2. **Segunda instrucción.**
-
-    Descripción breve del primer segundo.
-
-   ```
-   comando
-   $ otro comando
-   ```
-
-    ¿Qué sucede con este paso?
+  * En qué consiste
+  * Por qué es útil
+  * Cómo se puede usar
+  * Dónde se puede obtener ayuda
+  * [Referencias](#sección-referencias)
+  * [Créditos](#sección-créditos): Quien mantiene y contribuye al proyecto
 
 
-### Instalación
+El ficherto que estás leyendo ahora mismo es el Read Me de este repositorio, y lo puedes tomar como referencia, para el uso de los logos y ver ejemplos de secciones que se suelen incluir en este tipo de  archivo.
 
-Utiliza como guía la sección de [Descarga](https://github.com/CodeandoMexico/civic-project-template#descarga). 
+### [Sección] Referencias
+
+```
+❗️ Esta sección es OPCIONAL
+```
+
+En nuestros proyectos solemos aplicar metodologías de trabajo desarrolladas por otras organizaciones o gobiernos, y en esta sección incluimos los enlaces a los documentos de referencia. 
+
+### [Sección] Créditos
+
+```
+‼️ Esta sección es OBLIGATORIA
+```
+
+Uno de los pilares de nuestro trabajo es la colaboración multidisciplinar. En Codeando México colaboramos con gobiernos de todos los niveles (federal, estatal, municipal), organizaciones internacionales y de la sociedad civil y con un gran número de colaboradores individales.
+
+En esta sección intentamos dar el crédito a todos los colaboradores, ya que sin ellos no sería posible nuestro trabajo.
+
+Antes de incluir el nombre y contacto de un colaborador, es necesario contar con su visto bueno.
+
+## [Archivo] Código de conducta
+
+```
+‼️ Este archivo es OBLIOGATORIO
+ℹ️ Este archivo debe llamarse CODE_OF_CONDUCT.md o CODIGO_DE_CONDUCTA.md y residir en la carpeta raíz del proyecto
+```
+
+El código de conducta regula cómo se deben comportar las personas que participan en los proyectos de Codeando México.
+
+La última versión de nuestro código de conducta se encuentra en el [repositorio de Comunidad](https://github.com/CodeandoMexico/comunidad/blob/master/CODIGO-DE-CONDUCTA.md).
+
+Todos los repositorios deben enlazar directamente al código de conducta del repositorio de comunidad.
+
+## [Archivo] Licencia de uso
+
+```
+‼️ Este archivo es OBLIOGATORIO
+ℹ️ Este archivo debe llamarse LICENSE o LICENCIA y residir en la carpeta raíz del proyecto
+```
+
+A diferencia del software propietario, como por ejemplo Microsoft Word, todos los proyectos de la comunidad y de la organización Codeando México son proyectos de [software libre](https://www.gnu.org/philosophy/free-sw.es.html).
+
+Uno de los requisitos del software libre es que este sea publicado bajo licencias que permitan su copia, uso, modificación y redistribución sin limitaciones a las libertades de los usuarios, y el cídigo fuente del proyecto debe de tener un archivo que especifique la licencia bajo la cual se está publicando el proyecto.
+
+En algunos casos, un proyecto puede estar badado en proyectos o librerías de terceros, por lo cual antes de elegir la licencia es necesario revisar las licencias de estos proyectos o librerías para no incurrir en una violación de los derechos establecidos en esas licencias.
+
+Por ejemplo, el proyecto Decidim Monterrey está basado en el proyecto Decidim, y este se publica bajo la licencia GNU Affero General Public License v3.0, la cual especifica que si usas Decidim, tu proyecto debe ser liberado bajo la misma licencia.
+
+Codeando México no tiene una recomendación sobre qué licencia usar en específico, pero como referencia estos son algunos ejemplos de licencias que hemos usado en nuestros proyectos:
+* [MIT](https://opensource.org/licenses/MIT)
+* [GNU Affero General Public License v3.0](https://choosealicense.com/licenses/agpl-3.0/)
+* [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
-### Ejecución
+[Esta herramienta](https://choosealicense.com/appendix/) puede ser de utilidad a la hora de seleccionar una licencia para el proyecto.
 
-Utiliza como guía la sección de [Ejecución](https://github.com/CodeandoMexico/civic-project-template#ejecucion)
+## [Archivo] Cómo contribuir al proyecto
+
+```
+❗️ Este archivo es OPCIONAL
+ℹ️ Este archivo debe llamarse CONTRIBUTING.md o CONTRIBUYE.md y residir en la carpeta raíz del proyecto
+```
+
+En la medida de los posible, en Codeando México intentamos trabajar en abierto, tanto en nuestras comunicaciones de proyecto, como los avances de los mismos, aunque eso no significa que un proyecto esté abierto siempre a colaboraciones.
+
+En los casos en los que sí esté abierto, es necesario especificar de qué manera cualquier persona podrá colaborar. Esto se especifica en el documento `CONTRIBUTING.md`. 
+
+Algunos ejemplos de referencia:
+
+* [Estándar de datos legislativos](https://github.com/CodeandoMexico/estandar-datos-legislativos/blob/master/CONTRIBUTING.md)
+* [Decidim Monterrey](https://github.com/CodeandoMexico/decidim-monterrey/blob/main/CONTRIBUTING.md)
 
 
-## Contribuye
+## [Archivo] Hacklog
 
-Incluye aquí las formas de contribuir a tu proyecto.
+```
+❗️ Este archivo es OPCIONAL
+ℹ️ Este archivo debe llamarse HACKLOG.md o BITACORA.md y residir en la carpeta raíz del proyecto
+```
+
+Como parte de nuestro objetivo de trabajar en abierto, es buena práctica ir documentando algunos de los milestones en el archivo hacklog.
+
+A su vez, es buena práctica documentar las tareas o issues que se estén trabajando haciendo uso de la herramienta de issues de GitHub.
+
+## [Carpeta] Documentación
+
+```
+‼️ Esta carpeta es OBLIGATORIA
+ℹ️ Esta carpeta debe llamarse `documentos`
+```
+
+La documentación del proyecto debe vivir en el mismo repositorio que el código que documenta. Cualquier documento, ya sean archivos markdown, word, pdf o txt, deben estar bajo la carpeta `documentos`.
+
+Es buena idea poner en esta carpeta:
+
+* Documentación sobre cómo instalar el proyecto
+* Guía de uso
+* Legislación de referencia en caso de que sea relevante
+* Etc
 
 
-## Referencias
+## [Carpeta] Recursos
 
-1. Bradley, T. (2013) [El Hacker Cívico: Civic-Minded Techies Gain Sway With Government in Mexico and Beyond](http://www.huffingtonpost.com/theresa-bradley/el-hacker-civico-how-civi_b_4334088.html). *The Huffington Post*.
-2. Bracy, C. (2014) [Why Good Hackers Make Good Citizens](https://www.youtube.com/watch?v=QeAGu40vZzI).
-3. Codeando México. (2015) [Los hackers cívicos mexicanos](https://www.fayerwayer.com/2015/01/los-hackers-civicos-mexicanos/). *FayerWayer*.
-4. Goldstein, B., Dyson, L. (2013) [Beyond Transparency: Open Data and the Future of Civic Innovation](http://beyondtransparency.org).
-5. Barry, L. (2016) [vTaiwan: Public Participation Methods on the Cyberpunk Frontier of Democracy](https://civichall.org/civicist/vtaiwan-democracy-frontier). *Civicist*.
-6. Swartz, A. (2008) [Open Access Guerrilla Manifesto](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt).
+```
+‼️ Esta carpeta es OBLIGATORIA
+ℹ️ Esta carpeta debe llamarse `recursos`
+```
 
-## Créditos
+Todos los recursos gráficos (logos, banners, etc) o fotografías deben de ir en la carpeta de recursos.
 
-### Core-Team
+--
 
-* [octocat](http://github.com/octocat)
-* [rodowi](http://github.com/rodowi)
-
-### Otros contribuidores
-
-Este proyecto tampoco hubiera sido posible sin el apoyo de Richard Stallman, Aaron Swartz, Edward Snowden, Kevin Mitnick, Linus Torvalds y Chelsea Manning.
-
-`{}` con ❤️ por la comunidad de [Codeando México](http://www.codeandomexico.org).
-
-## Licencia
-
-MIT.
+Creado con ❤️ por la comunidad de [Codeando México](http://www.codeandomexico.org).
