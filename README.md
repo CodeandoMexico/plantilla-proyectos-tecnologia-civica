@@ -18,8 +18,8 @@ Este repositorio es una plantilla con la **estructura mínima** que debería ten
   - [Índice](#índice)
   - [Nombre del proyecto](#nombre-del-proyecto)
   - [[Archivo] Read Me](#archivo-read-me)
-  - [[Sección] Referencias](#sección-referencias)
-  - [[Sección] Créditos](#sección-créditos)
+    - [[Sección] Referencias](#sección-referencias)
+    - [[Sección] Créditos](#sección-créditos)
   - [[Archivo] Código de conducta](#archivo-código-de-conducta)
   - [[Archivo] Licencia de uso](#archivo-licencia-de-uso)
   - [[Archivo] Cómo contribuir al proyecto](#archivo-cómo-contribuir-al-proyecto)
@@ -53,7 +53,7 @@ El archivo Read Me contiene la información básica del proyecto:
 
 El ficherto que estás leyendo ahora mismo es el Read Me de este repositorio, y lo puedes tomar como referencia, para el uso de los logos y ver ejemplos de secciones que se suelen incluir en este tipo de  archivo.
 
-## [Sección] Referencias
+### [Sección] Referencias
 
 ```
 ❗️ Esta sección es OPCIONAL
@@ -61,7 +61,7 @@ El ficherto que estás leyendo ahora mismo es el Read Me de este repositorio, y 
 
 En nuestros proyectos solemos aplicar metodologías de trabajo desarrolladas por otras organizaciones o gobiernos, y en esta sección incluimos los enlaces a los documentos de referencia. 
 
-## [Sección] Créditos
+### [Sección] Créditos
 
 ```
 ‼️ Esta sección es OBLIGATORIA
