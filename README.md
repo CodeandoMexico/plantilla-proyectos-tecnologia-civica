@@ -84,6 +84,8 @@ El código de conducta regula cómo se deben comportar las personas que particip
 
 La última versión de nuestro código de conducta se encuentra en el [repositorio de Comunidad](https://github.com/CodeandoMexico/comunidad/blob/master/CODIGO-DE-CONDUCTA.md).
 
+Todos los repositorios deben enlazar directamente al código de conducta del repositorio de comunidad.
+
 ## [Archivo] Licencia de uso
 
 ```
