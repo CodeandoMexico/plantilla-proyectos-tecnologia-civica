@@ -7,7 +7,7 @@
 
 # Guía y plantilla para proyectos de Codeando México
 
-Este repositorio es una plantilla con la *estructura* que utilizamos para documentar nuestros proyectos en Codeando. Si estás haciendo un proyecto de tecnología cívica puedes tomarla de guía o simplemente usar lo que necesites.
+Este repositorio es una plantilla con la **estructura** que utilizamos para documentar nuestros proyectos en Codeando. Si estás haciendo un proyecto de tecnología cívica puedes tomarla de guía o simplemente usar lo que necesites.
 
 ## Índice
 
@@ -28,15 +28,13 @@ Este repositorio es una plantilla con la *estructura* que utilizamos para docume
 
 El nombre de nuestros repositorios está en español porque queremos ver más contenido en nuestro idioma. Si el nombre de tu proyecto tiene más de una palabra, es buena práctica que esté en minúsculas y separadas por guiones.
 
-✅ estandar-datos-legislativos, aprende-con-datos, guia-participacion-digital.
-❌ BlockchainForTheWin, OTRA_APP_DE_RAILS
-
+- ✅ estandar-datos-legislativos, aprende-con-datos, guia-participacion-digital.
+- ❌ BlockchainForTheWin, OTRA_APP_DE_RAILS
 
 ## [Archivo] Readme
-```
-‼️ En nuestros proyectos este archivo es obligatorio
-ℹ️ Este archivo debe llamarse README.md o LEEME.md y estar en la carpeta raíz del proyecto
-```
+
+- ‼️ En nuestros proyectos este archivo es obligatorio.
+- ℹ️ Este archivo debe llamarse README.md o LEEME.md y estar en la carpeta raíz del proyecto.
 
 El archivo Readme contiene la información básica del proyecto. El archivo que estás leyendo ahora mismo es el Readme de este repositorio, y lo puedes tomar como referencia o ver el uso de los logos. Nuestros Readme contienen las siguientes secciones:
 
@@ -52,25 +50,22 @@ El archivo Readme contiene la información básica del proyecto. El archivo que 
 9. Licencia: Menciona la licencia utilizada y enlaza al archivo con la licencia completa
 
 ### [Sección] Créditos
-```
-‼️ Esta sección es obligatoria en nuestros proyectos
-```
+
+- ‼️ Esta sección es obligatoria en nuestros proyectos
 
 Nuestra comunidad se basa en la colaboración, con personas de varios perfiles, instituciones, colectivos, movimientos. En tu sección de créditos menciona a quienes colaboraron en tu proyecto.
 Antes de incluir su nombre y contacto, es bueno preguntarle a la persona si quiere aparecer.
 
 ### [Sección] Referencias
-```
-❗️Esta sección es opcional de acuerdo al proyecto.
-```
+
+- ❗️Esta sección es opcional de acuerdo al proyecto.
 
 Cuando uses metodologías de trabajo o contenido desarrollado por otras personas u organizaciones, puedes mencionarlo en esta sección. Por ejemplo: si usaste otro proyecto como referencia, documentos, otras ideas, etc.
 
 ### [Sección] Código de conducta
-```
-‼️ Esta sección es obligatoria en nuestros proyectos
-ℹ️ En caso de agregarlo como archivo debe llamarse CODE_OF_CONDUCT.md o CODIGO_DE_CONDUCTA.md y residir en la carpeta raíz del proyecto
-```
+
+- ‼️ Esta sección es obligatoria en nuestros proyectos
+- ℹ️ En caso de agregarlo como archivo debe llamarse CODE_OF_CONDUCT.md o CODIGO_DE_CONDUCTA.md y residir en la carpeta raíz del proyecto
 
 El código de conducta nos permite crear espacios seguros y positivos para todas las personas que participan en el proyecto.
 
@@ -83,10 +78,9 @@ La última versión de nuestro [código de conducta](https://github.com/Codeando
 * [Tactical Tech](https://cdn.ttc.io/s/tacticaltech.org/Code_of_conduct_2021.pdf) 🇬🇧
 
 ## [Archivo] Licencia de uso
-```
-‼️ Este archivo es obligatorio en nuestros proyectos
-ℹ️ Este archivo debe llamarse LICENSE o LICENCIA y estar en la carpeta raíz del proyecto
-```
+
+- ‼️ Este archivo es obligatorio en nuestros proyectos
+- ℹ️ Este archivo debe llamarse LICENSE o LICENCIA y estar en la carpeta raíz del proyecto
 
 A diferencia del software propietario, como por ejemplo Microsoft Word, nuestros proyectos son de [software libre](https://www.gnu.org/philosophy/free-sw.es.html). Esto quiere decir que publicamos los proyectos con una licencia que permite su copia, uso, modificación y redistribución sin limitaciones.
 
@@ -102,10 +96,9 @@ Estos son algunos ejemplos de licencias que hemos usado en nuestros proyectos:
 Si no sabes muy bien qué licencia elegir para tu proyecto, [esta herramienta](https://choosealicense.com/appendix/) puede ser de ayuda.
 
 ## [Archivo] Cómo contribuir al proyecto
-```
-‼️ Este archivo es obligatorio en nuestros proyectos
-ℹ️ Este archivo debe llamarse CONTRIBUTING.md o CONTRIBUYE.md y residir en la carpeta raíz del proyecto
-```
+
+- ‼️ Este archivo es obligatorio en nuestros proyectos
+- ℹ️ Este archivo debe llamarse CONTRIBUTING.md o CONTRIBUYE.md y residir en la carpeta raíz del proyecto
 
 Trabajamos en abierto y por tanto es importante especificar de qué manera se puede colaborar. Estas instrucciones se especifican en un archivo que se llama CONTRIBUTING.md o CONTRIBUYE.md
 
@@ -115,20 +108,18 @@ Algunos ejemplos de referencia:
 * [Decidim Monterrey](https://github.com/CodeandoMexico/decidim-monterrey/blob/main/CONTRIBUTING.md)
 
 ## [Archivo] Hacklog
-```
-❗️ Este archivo es opcional en nuestros proyectos
-ℹ️ Este archivo debe llamarse HACKLOG.md o BITACORA.md y residir en la carpeta raíz del proyecto
-```
+
+- ❗️ Este archivo es opcional en nuestros proyectos
+- ℹ️ Este archivo debe llamarse HACKLOG.md o BITACORA.md y residir en la carpeta raíz del proyecto
 
 Es buena práctica ir documentando los milestones, el contexto y los avances del proyecto en un archivo (HACKLOG.md). Esto permite que las distintas personas que colaboran en un proyecto puedan tener un lugar en donde de manera rápida y sencilla puedan entender qué objetivos, avances y cambios han ocurrido. 
 
 Otra buena práctica es documentar las tareas o issues que se estén trabajando haciendo uso de la herramienta de issues de GitHub.
 
 ## [Carpeta] Docs
-```
-‼️ Esta carpeta es obligatoria en nuestros proyectos
-ℹ️ Esta carpeta debe llamarse `docs`
-```
+
+- ‼️ Esta carpeta es obligatoria en nuestros proyectos
+- ℹ️ Esta carpeta debe llamarse `docs`
 
 La documentación del proyecto debe vivir en el mismo repositorio que el código. Los documentos que dan contexto o información adicional sobre el proyecto deben estar bajo esta carpeta. Pueden ser archivos markdown, word, pdf o txt. 
 
@@ -138,13 +129,12 @@ Algunos ejemplos de documentos que pueden existir en esta carpeta:
 * Documentos de contexto (i.e. la forma en la que se distritó una ciudad para un proyecto)
 
 ## [Carpeta] Recursos
-```
-‼️ Esta carpeta es OBLIGATORIA
-ℹ️ Esta carpeta debe llamarse `recursos`
-```
+
+- ‼️ Esta carpeta es OBLIGATORIA
+- ℹ️ Esta carpeta debe llamarse `recursos`
 
 Todos los recursos gráficos (logos, banners, etc) o fotografías deben de ir en la carpeta de recursos.
 
---
+---
 
 Creado con ❤️ por la comunidad de [Codeando México](http://www.codeandomexico.org).
