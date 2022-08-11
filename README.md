@@ -7,155 +7,137 @@
 
 # Guía y plantilla para proyectos de Codeando México
 
-A lo largo de los años, el número de proyectos y la variedad de personas que han colaborado ha ido aumentando, y como resultado la manera en la que están estructurados los proyectos en Codeando México es muy variada también. 
-
-Este repositorio es una plantilla con la **estructura mínima** que debería tener cada proyecto de la comunidad y de la organización Codeando México, y debe servir de guía para los nuevos proyectos que se vayan a integrar al repositorio de la organización.
-
+Este repositorio es una plantilla con la *estructura* que utilizamos para documentar nuestros proyectos en Codeando. Si estás haciendo un proyecto de tecnología cívica puedes tomarla de guía o simplemente usar lo que necesites.
 
 ## Índice
 
 - [Guía y plantilla para proyectos de Codeando México](#guía-y-plantilla-para-proyectos-de-codeando-méxico)
   - [Índice](#índice)
-  - [Nombre del proyecto](#nombre-del-proyecto)
-  - [[Archivo] Read Me](#archivo-read-me)
-    - [[Sección] Referencias](#sección-referencias)
+  - [Nombre del repositorio](#nombre-del-repositorio)
+  - [[Archivo] Readme](#archivo-readme)
     - [[Sección] Créditos](#sección-créditos)
-  - [[Archivo] Código de conducta](#archivo-código-de-conducta)
+    - [[Sección] Referencias](#sección-referencias)
+    - [[Sección] Código de conducta](#sección-código-de-conducta)
   - [[Archivo] Licencia de uso](#archivo-licencia-de-uso)
   - [[Archivo] Cómo contribuir al proyecto](#archivo-cómo-contribuir-al-proyecto)
   - [[Archivo] Hacklog](#archivo-hacklog)
-  - [[Carpeta] Documentación](#carpeta-documentación)
+  - [[Carpeta] Docs](#carpeta-docs)
   - [[Carpeta] Recursos](#carpeta-recursos)
 
-## Nombre del proyecto
+## Nombre del repositorio
 
-La recomendación es que el nombre del repositorio del proyecto esté en español, dado que la principal audiencia de nuestros proyectos es población de la república mexicana y América Latina. Si el nombre del proyecto tiene más de una plabra, estas deben estar en minúsculas y separadas por guiones.
+El nombre de nuestros repositorios está en español porque queremos ver más contenido en nuestro idioma. Si el nombre de tu proyecto tiene más de una palabra, es buena práctica que esté en minúsculas y separadas por guiones.
 
-* ✅  `estandar-datos-legislativos`, `aprende-con-datos`, `guia-participacion-digital`.
-* ❌  `BlockchainForTheWin`, `OTRA_APP_DE_RAILS`
+✅ estandar-datos-legislativos, aprende-con-datos, guia-participacion-digital.
+❌ BlockchainForTheWin, OTRA_APP_DE_RAILS
 
-## [Archivo] Read Me
 
+## [Archivo] Readme
 ```
-‼️ Este archivo es OBLIGATORIO
-ℹ️ Este archivo debe llamarse README.md o LEEME.md y residir en la carpeta raíz del proyecto
-```
-
-El archivo Read Me contiene la información básica del proyecto:
-
-  * En qué consiste
-  * Por qué es útil
-  * Cómo se puede usar
-  * Dónde se puede obtener ayuda
-  * [Referencias](#sección-referencias)
-  * [Créditos](#sección-créditos): Quien mantiene y contribuye al proyecto
-
-
-El ficherto que estás leyendo ahora mismo es el Read Me de este repositorio, y lo puedes tomar como referencia, para el uso de los logos y ver ejemplos de secciones que se suelen incluir en este tipo de  archivo.
-
-### [Sección] Referencias
-
-```
-❗️ Esta sección es OPCIONAL
+‼️ En nuestros proyectos este archivo es obligatorio
+ℹ️ Este archivo debe llamarse README.md o LEEME.md y estar en la carpeta raíz del proyecto
 ```
 
-En nuestros proyectos solemos aplicar metodologías de trabajo desarrolladas por otras organizaciones o gobiernos, y en esta sección incluimos los enlaces a los documentos de referencia. 
+El archivo Readme contiene la información básica del proyecto. El archivo que estás leyendo ahora mismo es el Readme de este repositorio, y lo puedes tomar como referencia o ver el uso de los logos. Nuestros Readme contienen las siguientes secciones:
+
+
+1. Nombre del proyecto
+2. Descripción del proyecto en un tuit
+3. Acerca de: Describe en un máximo de 2 párrafos cortos el problema que buscas resolver
+4. Cómo comenzar: Describe como descargar, instalar y ejecutar. Si las instrucciones de instalación son extensas, puedes poner un resumen y enlazar a un manual de instalación.
+5. Cómo contribuir: Instrucciones para contribuir al proyecto, se enlaza al archivo 
+6. Créditos: Quién mantiene y ha contribuido al proyecto 
+7. Referencias
+8. Código de conducta: Enlace a nuestro código de conducta
+9. Licencia: Menciona la licencia utilizada y enlaza al archivo con la licencia completa
 
 ### [Sección] Créditos
-
 ```
-‼️ Esta sección es OBLIGATORIA
-```
-
-Uno de los pilares de nuestro trabajo es la colaboración multidisciplinar. En Codeando México colaboramos con gobiernos de todos los niveles (federal, estatal, municipal), organizaciones internacionales y de la sociedad civil y con un gran número de colaboradores individales.
-
-En esta sección intentamos dar el crédito a todos los colaboradores, ya que sin ellos no sería posible nuestro trabajo.
-
-Antes de incluir el nombre y contacto de un colaborador, es necesario contar con su visto bueno.
-
-## [Archivo] Código de conducta
-
-```
-‼️ Este archivo es OBLIOGATORIO
-ℹ️ Este archivo debe llamarse CODE_OF_CONDUCT.md o CODIGO_DE_CONDUCTA.md y residir en la carpeta raíz del proyecto
+‼️ Esta sección es obligatoria en nuestros proyectos
 ```
 
-El código de conducta regula cómo se deben comportar las personas que participan en los proyectos de Codeando México.
+Nuestra comunidad se basa en la colaboración, con personas de varios perfiles, instituciones, colectivos, movimientos. En tu sección de créditos menciona a quienes colaboraron en tu proyecto.
+Antes de incluir su nombre y contacto, es bueno preguntarle a la persona si quiere aparecer.
 
-La última versión de nuestro código de conducta se encuentra en el [repositorio de Comunidad](https://github.com/CodeandoMexico/comunidad/blob/master/CODIGO-DE-CONDUCTA.md).
+### [Sección] Referencias
+```
+❗️Esta sección es opcional de acuerdo al proyecto.
+```
 
-Todos los repositorios deben enlazar directamente al código de conducta del repositorio de comunidad.
+Cuando uses metodologías de trabajo o contenido desarrollado por otras personas u organizaciones, puedes mencionarlo en esta sección. Por ejemplo: si usaste otro proyecto como referencia, documentos, otras ideas, etc.
+
+### [Sección] Código de conducta
+```
+‼️ Esta sección es obligatoria en nuestros proyectos
+ℹ️ En caso de agregarlo como archivo debe llamarse CODE_OF_CONDUCT.md o CODIGO_DE_CONDUCTA.md y residir en la carpeta raíz del proyecto
+```
+
+El código de conducta nos permite crear espacios seguros y positivos para todas las personas que participan en el proyecto.
+
+La última versión de nuestro [código de conducta](https://github.com/CodeandoMexico/comunidad/blob/master/CODIGO-DE-CONDUCTA.md) se encuentra en el [repositorio de Comunidad](https://github.com/CodeandoMexico/comunidad) y enlazamos directamente a él. Si tu proyecto es abierto, es bueno que establezcas un código de conducta, puedes usar el nuestro como referencia o aquí puedes consultar otras opciones:
+
+* [Código de conducta convenido para contribuyentes](https://www.contributor-covenant.org/es/version/2/0/code_of_conduct/) (Contributors Covenant)
+* [Geek Feminism](https://geekfeminismdotorg.wordpress.com/about/code-of-conduct/) 🇬🇧
+* [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) 🇬🇧
+* [MediaWiki](https://www.mediawiki.org/wiki/Code_of_Conduct) 🇬🇧
+* [Tactical Tech](https://cdn.ttc.io/s/tacticaltech.org/Code_of_conduct_2021.pdf) 🇬🇧
 
 ## [Archivo] Licencia de uso
-
 ```
-‼️ Este archivo es OBLIOGATORIO
-ℹ️ Este archivo debe llamarse LICENSE o LICENCIA y residir en la carpeta raíz del proyecto
+‼️ Este archivo es obligatorio en nuestros proyectos
+ℹ️ Este archivo debe llamarse LICENSE o LICENCIA y estar en la carpeta raíz del proyecto
 ```
 
-A diferencia del software propietario, como por ejemplo Microsoft Word, todos los proyectos de la comunidad y de la organización Codeando México son proyectos de [software libre](https://www.gnu.org/philosophy/free-sw.es.html).
+A diferencia del software propietario, como por ejemplo Microsoft Word, nuestros proyectos son de [software libre](https://www.gnu.org/philosophy/free-sw.es.html). Esto quiere decir que publicamos los proyectos con una licencia que permite su copia, uso, modificación y redistribución sin limitaciones.
 
-Uno de los requisitos del software libre es que este sea publicado bajo licencias que permitan su copia, uso, modificación y redistribución sin limitaciones a las libertades de los usuarios, y el cídigo fuente del proyecto debe de tener un archivo que especifique la licencia bajo la cual se está publicando el proyecto.
+En algunos casos, un proyecto puede estar basado en otros proyectos o librerías de terceros, por es necesario revisar las licencias de estos proyectos o librerías para no incurrir en una violación de lo que ya establecieron.
 
-En algunos casos, un proyecto puede estar badado en proyectos o librerías de terceros, por lo cual antes de elegir la licencia es necesario revisar las licencias de estos proyectos o librerías para no incurrir en una violación de los derechos establecidos en esas licencias.
+Por ejemplo, el proyecto [Decidim Monterrey](https://github.com/CodeandoMexico/decidim-monterrey/) está basado en el proyecto [Decidim](https://github.com/decidim/decidim), y este se publica bajo la licencia GNU Affero General Public License v3.0, la cual especifica que si usas Decidim, tu proyecto debe ser liberado bajo la misma licencia.
 
-Por ejemplo, el proyecto Decidim Monterrey está basado en el proyecto Decidim, y este se publica bajo la licencia GNU Affero General Public License v3.0, la cual especifica que si usas Decidim, tu proyecto debe ser liberado bajo la misma licencia.
-
-Codeando México no tiene una recomendación sobre qué licencia usar en específico, pero como referencia estos son algunos ejemplos de licencias que hemos usado en nuestros proyectos:
+Estos son algunos ejemplos de licencias que hemos usado en nuestros proyectos:
 * [MIT](https://opensource.org/licenses/MIT)
 * [GNU Affero General Public License v3.0](https://choosealicense.com/licenses/agpl-3.0/)
 * [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 
-
-[Esta herramienta](https://choosealicense.com/appendix/) puede ser de utilidad a la hora de seleccionar una licencia para el proyecto.
+Si no sabes muy bien qué licencia elegir para tu proyecto, [esta herramienta](https://choosealicense.com/appendix/) puede ser de ayuda.
 
 ## [Archivo] Cómo contribuir al proyecto
-
 ```
-❗️ Este archivo es OPCIONAL
+‼️ Este archivo es obligatorio en nuestros proyectos
 ℹ️ Este archivo debe llamarse CONTRIBUTING.md o CONTRIBUYE.md y residir en la carpeta raíz del proyecto
 ```
 
-En la medida de los posible, en Codeando México intentamos trabajar en abierto, tanto en nuestras comunicaciones de proyecto, como los avances de los mismos, aunque eso no significa que un proyecto esté abierto siempre a colaboraciones.
-
-En los casos en los que sí esté abierto, es necesario especificar de qué manera cualquier persona podrá colaborar. Esto se especifica en el documento `CONTRIBUTING.md`. 
+Trabajamos en abierto y por tanto es importante especificar de qué manera se puede colaborar. Estas instrucciones se especifican en un archivo que se llama CONTRIBUTING.md o CONTRIBUYE.md
 
 Algunos ejemplos de referencia:
 
 * [Estándar de datos legislativos](https://github.com/CodeandoMexico/estandar-datos-legislativos/blob/master/CONTRIBUTING.md)
 * [Decidim Monterrey](https://github.com/CodeandoMexico/decidim-monterrey/blob/main/CONTRIBUTING.md)
 
-
 ## [Archivo] Hacklog
-
 ```
-❗️ Este archivo es OPCIONAL
+❗️ Este archivo es opcional en nuestros proyectos
 ℹ️ Este archivo debe llamarse HACKLOG.md o BITACORA.md y residir en la carpeta raíz del proyecto
 ```
 
-Como parte de nuestro objetivo de trabajar en abierto, es buena práctica ir documentando algunos de los milestones en el archivo hacklog.
+Es buena práctica ir documentando los milestones, el contexto y los avances del proyecto en un archivo (HACKLOG.md). Esto permite que las distintas personas que colaboran en un proyecto puedan tener un lugar en donde de manera rápida y sencilla puedan entender qué objetivos, avances y cambios han ocurrido. 
 
-A su vez, es buena práctica documentar las tareas o issues que se estén trabajando haciendo uso de la herramienta de issues de GitHub.
+Otra buena práctica es documentar las tareas o issues que se estén trabajando haciendo uso de la herramienta de issues de GitHub.
 
-## [Carpeta] Documentación
-
+## [Carpeta] Docs
 ```
-‼️ Esta carpeta es OBLIGATORIA
-ℹ️ Esta carpeta debe llamarse `documentos`
+‼️ Esta carpeta es obligatoria en nuestros proyectos
+ℹ️ Esta carpeta debe llamarse `docs`
 ```
 
-La documentación del proyecto debe vivir en el mismo repositorio que el código que documenta. Cualquier documento, ya sean archivos markdown, word, pdf o txt, deben estar bajo la carpeta `documentos`.
+La documentación del proyecto debe vivir en el mismo repositorio que el código. Los documentos que dan contexto o información adicional sobre el proyecto deben estar bajo esta carpeta. Pueden ser archivos markdown, word, pdf o txt. 
 
-Es buena idea poner en esta carpeta:
-
-* Documentación sobre cómo instalar el proyecto
-* Guía de uso
-* Legislación de referencia en caso de que sea relevante
-* Etc
-
+Algunos ejemplos de documentos que pueden existir en esta carpeta: 
+* Documentación extendida sobre la instalación del proyecto (i.e. un manual de instalación)
+* Legislación en la que está basada el proyecto (i.e. reglamento de participación ciudadana)
+* Documentos de contexto (i.e. la forma en la que se distritó una ciudad para un proyecto)
 
 ## [Carpeta] Recursos
-
 ```
 ‼️ Esta carpeta es OBLIGATORIA
 ℹ️ Esta carpeta debe llamarse `recursos`
